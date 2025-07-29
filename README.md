@@ -12,10 +12,10 @@
   </div><br/></br>
   
 ### 📊 *Stats*
-<div>
+<div style="display:inline_block" align="center">
 	<a href="https://github.com/gabrielkmendonca">
-	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielkmendonca&show_icons=true&theme=transparent&count_private=true" >
-	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkmendonca&theme=transparent&layout=compact&langs_count=16">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielkmendonca&show_icons=true&theme=transparent&count_private=true" >
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkmendonca&theme=transparent&layout=compact&langs_count=16">
   </div><br/>
 
 <div align="center">
