@@ -11,12 +11,12 @@
   	<img align="left" width="40px" style="padding-right=10px;" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
   </div><br/></br>
   
-### 📊 *Stats*
-<p>
+### 📊 *Stats* 
+<div align="center">
 	<a href="https://github.com/gabrielkmendonca">
-	<img height="200" style="padding-right: 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielkmendonca&show_icons=true&theme=transparent&count_private=true" >
-	<img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkmendonca&theme=transparent&layout=compact&langs_count=16">
- </p><br/>
+	<img height="200" style="padding-right: 10px;"  src="https://github-readme-stats.vercel.app/api?username=gabrielkmendonca&show_icons=true&theme=transparent&count_private=true" >
+	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkmendonca&theme=transparent&layout=compact&langs_count=16">
+ </div><br/>
 
 
 <div align="center">
