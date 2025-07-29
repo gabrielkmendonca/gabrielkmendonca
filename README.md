@@ -8,7 +8,7 @@
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkmendonca&theme=transparent&layout=compact&langs_count=16">
   </div>
 
-### 🛠 *Tech Stack*
+### 🚀 *Tech Stack*
 
 <div style="display: inline-block"><br> 
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
