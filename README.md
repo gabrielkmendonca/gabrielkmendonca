@@ -10,7 +10,7 @@
 
 ### 🚀 *Tech Stack*
 
- 
+ <div display="inline-block"></br>
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -19,8 +19,7 @@
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
-
+  </div></br>
 
   ##
 
