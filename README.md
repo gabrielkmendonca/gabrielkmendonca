@@ -3,7 +3,7 @@
 ### 🚀 *Tech Stack*
 
 <div style="display:inline_block"></br>
-	<img align="left" width="40px" style="padding-right=10px;" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+	<img align="left" width="40px" style="padding-right=10px;" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 	<img align="left" width="40px" style="padding-right=10px;" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 	<img align="left" width="40px" style="padding-right=10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   	<img align="left" width="40px" style="padding-right=10px;" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
