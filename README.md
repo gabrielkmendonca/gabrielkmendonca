@@ -7,7 +7,7 @@
   	<img align="left" width="40px" style="padding-right=10px;" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   	<img align="left" width="40px" style="padding-right=10px;" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   	<img align="left" width="40px" style="padding-right=10px;" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  	<img align="left" width="40px" style="padding-right=10px;" style="padding-top=10px;" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  	<img align="left" width="40px" style="padding-right=10px;" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   	<img align="left" width="40px" style="padding-right=10px;" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
   </div><br/></br></br>
   
