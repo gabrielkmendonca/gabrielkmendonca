@@ -18,3 +18,4 @@
 	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkmendonca&theme=transparent&layout=compact&langs_count=16">
  </div>
 
+![Snake animation](https://github.com/gabrielkmendonca/gabrielkmendonca/blob/output/github-contribution-grid-snake.svg)
