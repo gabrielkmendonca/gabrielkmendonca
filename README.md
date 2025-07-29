@@ -19,7 +19,8 @@
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  </div></br>
+  </div></br></br>
+
 
   ##
 
