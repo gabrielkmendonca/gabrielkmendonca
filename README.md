@@ -1,8 +1,8 @@
 # 👨‍💻 Gabriel Karlinski Mendonça
 ### 🚀 *Tech Stack*
 <img align="left" width="40px" style="padding-right=10px;" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" width="40px" style="padding-right=10px;" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" width="40px" style="padding-right=10px;" style="padding-bottom=10px;" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" width="40px" style="padding-right=10px;" style="padding-bottom=10px;" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" width="40px" style="padding-right=10px;" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="left" width="40px" style="padding-right=10px;" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="left" width="40px" style="padding-right=10px;" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="left" width="40px" style="padding-right=10px;" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
