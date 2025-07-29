@@ -10,7 +10,7 @@
 
 ### 🚀 *Tech Stack*
 
- <div display="inline-block"></br>
+ <div display="inline-block" style="padding-bottom=10px"></br>
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="left" heigth="40px" width="40px" style="padding-right=10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
