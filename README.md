@@ -15,7 +15,7 @@
 ### 📊 *Stats* 
 <div align="center">
 	<a href="https://github.com/gabrielkmendonca">
-	<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielkmendonca&show_icons=true&theme=transparent&count_private=true" >
+	<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielkmendonca&show_icons=true&theme=transparent&count_private=true&custom_title=GitHub%20Stats" >
 	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkmendonca&theme=transparent&layout=compact&langs_count=16">
  </div><br/>
 
